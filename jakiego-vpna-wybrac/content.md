@@ -1,3 +1,8 @@
+# Jakiego VPN-a wybrać?
+
+**Poziom trudność:**  
+<span class="tutorial-difficulty-medium">Średni</span>
+
 ## Co to VPN, i czy go potrzebujesz?
 
 Określenie VPN prawdopodobnie brzmi dla ciebie jak zlepek trzech losowych liter, opiszemy więc go dla ciebie w trzech zdaniach:
